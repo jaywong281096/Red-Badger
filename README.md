@@ -2,7 +2,7 @@
 
 For this programming problem I decided to emphasise simplicity and worked with the limited amount
 of time as suggested in the guidelines. I believe to be able to work quickly and write simple functional code
-is part of the values of Agile Development however a part of this is also because I am currently really busy.
+is part of the values of Agile Development and Red Badger however a part of this is also because I am currently really busy.
 I have made sure to meet most/all of the requirements suggested.
 
 Within the files I have commented some improvements or different ways I would have approached the problem
