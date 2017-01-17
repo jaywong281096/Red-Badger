@@ -14,11 +14,17 @@ For example:
 
 Sample Input
 5 3
+
 1 1 E
+
 RFRFRFRF
+
 3 2 N
+
 FRRFLLFFRRFLL
+
 0 3 W
+
 LLFFFLFLFL
 
 Would look like : java Main 53 11E RFRFRFRF 32N FRRFLLFFRRFLL 03W LLFFFLFLFL
